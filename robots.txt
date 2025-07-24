@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://third-and-fourth-bloglife.netlify.app/sitemap.xml
