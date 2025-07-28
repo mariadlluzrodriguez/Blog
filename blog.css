@@ -1,6 +1,6 @@
 /* stylelint-disable @stylistic/selector-list-comma-newline-after */
 body {
-  background-color: #ffe4b5 !important; /* Example: Moccasin */
+  background-color: #1b9e77 ! important; /* Example: Moccasin */
 }
 
 
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .blog-post-meta {
   margin-bottom: 1.25rem;
-  color: #727272;
+  color: #7570b3;
 }
 
 
