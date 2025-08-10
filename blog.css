@@ -1,6 +1,9 @@
 /* stylelint-disable @stylistic/selector-list-comma-newline-after */
 body {
-  background-color: #1b9e77 ! important; /* Example: Moccasin */
+  background-color: #F7EDE2 ! important; /* Example: Moccasin */
+}
+.container{
+  color: #84A59D;
 }
 
 
@@ -18,19 +21,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
 }
 
-/* .flex-auto {
-  flex: 0 0 auto;
-} */
-
-/* .h-250 { height: 250px; }
-@media (min-width: 768px) {
-  .h-md-250 { height: 250px; }
-} */
-
-/* Pagination */
-/* .blog-pagination {
-  margin-bottom: 4rem;
-} */
 
 /* Navbar */
 
@@ -47,7 +37,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 .blog-post-meta {
   margin-bottom: 1.25rem;
-  color: #7570b3;
+  /* color: #7570b3; */
+  color: #F28482;
 }
 
 
@@ -61,12 +52,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 .blog-description {
   font-size: 1.1rem;
-  color: #7570b3;
+  /* color: #7570b3; */
+  color: #F28482;
 }
-
-/* @media (min-width: 40em) {
-  .blog-title {
-    font-size: 3.5rem;
-  }
-} */
-
