@@ -1,6 +1,7 @@
 /* stylelint-disable @stylistic/selector-list-comma-newline-after */
 body {
   background-color: #F7EDE2 ! important; /* Example: Moccasin */
+  text-align: center;
 }
 .container{
   color: #84A59D;
